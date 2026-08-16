@@ -1,0 +1,29 @@
+Q1.How much revenue are we generating, and how does revenue change over time?
+
+Q2.Which products generate the most revenue?
+
+Products
+
+Q3.Which product categories generate the most revenue and profit?
+
+Q4.Which products generate the highest total profit?
+
+Q5.Which products have the highest profit margins?
+
+Q6.Which products generate the least revenue, and what factors may explain their poor performance?
+
+Customers
+
+Q7.Which customer demographics contribute the most revenue and orders?
+
+Discounts
+
+Q8.How do discounts affect revenue, sales volume, and profit?
+
+Category Performance
+
+Q9.Which product categories generate the least revenue, and what factors may explain their weak performance?
+
+Growth
+
+Q10.Which products, categories, and customer segments have the greatest opportunity for sales growth?
